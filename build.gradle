@@ -1,7 +1,7 @@
-ext.keycloak_version = "26.7.2"
+ext.keycloak_version = "26.8.2"
 
 group = "be.looorent"
-version = "26.7.2"
+version = "26.8.2"
 
 apply plugin: "java"
 
